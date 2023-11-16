@@ -1,0 +1,29 @@
+div {
+  width: 1000px;
+  height: 800px;
+  margin: 0 auto;
+  background: gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  margin-bottom: 50px;
+  padding: 1rem;
+  background: wheat;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  border-radius: 20px;
+  border: solid 5px rgb(75, 3, 124);
+}
+button:hover {
+  cursor: pointer;
+}
+
+img {
+  width: 600px;
+  height: 500px;
+  background: white;
+}
